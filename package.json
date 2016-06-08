@@ -1,0 +1,23 @@
+{
+  "name": "codeanywhere-test",
+  "version": "1.0.0",
+  "description": "Testing codeanywhere ide with node & riotjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sektlab/codeanywhere-test.git"
+  },
+  "author": "teknul",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/sektlab/codeanywhere-test/issues"
+  },
+  "homepage": "https://github.com/sektlab/codeanywhere-test#readme",
+  "dependencies": {
+    "riot": "^2.4.1",
+    "swig": "^1.4.2"
+  }
+}
